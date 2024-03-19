@@ -1,4 +1,4 @@
- <!-- Footer Start -->
+ {{-- <!-- Footer Start -->
  <footer class="bg-dark pt-24 pb-12">
      <div class="container">
          <div class="flex flex-wrap">
@@ -83,4 +83,4 @@
          </div>
      </div>
  </footer>
- <!-- Footer End -->
+ <!-- Footer End --> --}}

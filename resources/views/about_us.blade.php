@@ -48,7 +48,7 @@
                 <img class="h-auto max-w-xs rounded-2xl" src="/img/aufaa.jpg" alt="">
                 <h1 class="font-black text-2xl mt-2">Aufaa Husniati</h1>
                 <h4 class="italic-h4 text-gray-400">Project Manager</h4>
-                <p class="text-gray-600 mb-2">Full-Stack Developer</p>
+                    <p class="text-gray-600 mb-2">Full-Stack Developer</p>
                 <div class="flex justify-center">
                     <a href="https://github.com/aufaahusniati" target="_blank">
                         <svg class="w-6 h-6 mr-4 text-gray-700" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
@@ -67,7 +67,7 @@
                     <img class="h-auto max-w-xs rounded-2xl" src="/img/indri.jpg" alt="">
                     <h1 class="font-black text-2xl mt-2">Widya Dwi Indrianti</h1>
                     <h4 class="italic-h4 text-gray-400">Team</h4>
-                    <p class="text-gray-600 mb-2">Front-End Developer</p>
+                        <p class="text-gray-600 mb-2">Front-End Developer</p>
                     <div class="flex justify-center">
                         <a href="https://github.com/indrianti10" target="_blank">
                             <svg class="w-6 h-6 mr-4 text-gray-700" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
@@ -85,7 +85,7 @@
                     <img class="h-auto max-w-xs rounded-2xl" src="/img/daffa.jpg" alt="">
                     <h1 class="font-black text-2xl mt-2">Daffa Gimmnastiar</h1>
                     <h4 class="italic-h4 text-gray-400">Team</h4>
-                    <p  class="text-gray-600 mb-2">Front-End Developer</p>
+                        <p  class="text-gray-600 mb-2">Front-End Developer</p>
                     <div class="flex justify-center">
                         <a href="https://github.com/daffagimnastiar" target="_blank">
                             <svg class="w-6 h-6 mr-4 text-gray-700" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
@@ -103,7 +103,7 @@
                     <img class="h-auto max-w-xs rounded-2xl" src="/img/wildan.jpg" alt="">
                     <h1 class="font-black text-2xl mt-2">Wildan Nasrulloh. R</h1>
                     <h4 class="italic-h4 text-gray-400">Team</h4>
-                    <p  class="text-gray-600 mb-2">Back-End Developer</p>
+                        <p  class="text-gray-600 mb-2">Back-End Developer</p>
                     <div class="flex justify-center">
                         <a href="https://github.com/wilrel" target="_blank">
                             <svg class="w-6 h-6 mr-4 text-gray-700" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">

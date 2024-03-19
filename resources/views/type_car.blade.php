@@ -60,7 +60,7 @@
                 {{-- Cards --}}
                 <div class="gap-3 lg:grid lg:grid-cols-3">
                     @foreach ($cars as $car)
-                    <li class="p-3">
+                <li class="p-3">
                     <div class="bg-white border border-gray-200 shadow-xl rounded-lg p-6">
                         @if($car->image)
                         {{-- Image --}}
@@ -129,7 +129,7 @@
                                 <p class="px-2">Reservation</p>
                             </a>
                         </div>
-                    </li>
+                </li>
                     @endforeach
                 </div>
             </div>
