@@ -46,6 +46,11 @@ Route::get('/about_us', function () {
     return view('about_us');
 });
 
+// About us
+Route::get('/beli', function () {
+    return view('beli');
+});
+
 // reservation
 Route::get('/reservation', function () {
     return view('reservation');
